@@ -15,4 +15,4 @@ This project is the result of practice from learning basic javascript and DOM.
 
 ### Live Demo
 
-[Gues My Number](https://choosealicense.com/licenses/mit/)
+[Gues My Number](https://guess-my-number-demo.netlify.app/)
